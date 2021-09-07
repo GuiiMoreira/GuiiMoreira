@@ -1,8 +1,6 @@
 
 <div align = "center">
- <h1>Olá, Me chamo Guilherme Moreira!</h1>
- 
- ##
+ <h1>Olá, sou o Guilherme Moreira!</h1>
  
  <div>
   <a href="https://github.com/GuiiMoreira">
