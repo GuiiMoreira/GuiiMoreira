@@ -2,7 +2,7 @@
 <div align = "center">
  <h1>Olá, sou o Guilherme Moreira!</h1>
  <h3>Sou desenvovedor Full Stack</h3>
- <p>Neste lugar é possível encontrar alguns dos projetos elaborados por mim!</p>
+ <p>Tenho experiencia com HTML, CSS, JavaScript, React, NodeJS, Sql, API Rest. <br> Neste lugar é possível encontrar alguns dos projetos elaborados por mim!</p>
  
  <div>
   <a href="https://github.com/GuiiMoreira">
