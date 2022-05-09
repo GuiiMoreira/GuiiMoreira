@@ -3,7 +3,7 @@
  <h1>Olá, sou o Guilherme Moreira!</h1>
  <h3>Sou desenvovedor Full Stack</h3>
  <p>Tenho experiencia com HTML, CSS, JavaScript, React, NodeJS, Sql, API Rest. <br> Neste lugar é possível encontrar alguns dos projetos elaborados por mim!</p>
- <p>Visite meu portifólio: <a>https://guiimoreira.github.io./index.html</a></p>
+ <p>Visite meu portifólio: <a href="https://guiimoreira.github.io./index.html">https://guiimoreira.github.io./index.html</a></p>
  <div>
   <a href="https://github.com/GuiiMoreira">
   <img justify="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=GuiiMoreira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
